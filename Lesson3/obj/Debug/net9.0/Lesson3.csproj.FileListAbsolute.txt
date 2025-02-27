@@ -1,0 +1,14 @@
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/obj/Debug/net9.0/Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/obj/Debug/net9.0/Lesson3.AssemblyInfoInputs.cache
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/obj/Debug/net9.0/Lesson3.AssemblyInfo.cs
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/obj/Debug/net9.0/Lesson3.csproj.CoreCompileInputs.cache
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/bin/Debug/net9.0/Lesson3
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/bin/Debug/net9.0/Lesson3.deps.json
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/bin/Debug/net9.0/Lesson3.runtimeconfig.json
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/bin/Debug/net9.0/Lesson3.dll
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/bin/Debug/net9.0/Lesson3.pdb
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/obj/Debug/net9.0/Lesson3.dll
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/obj/Debug/net9.0/refint/Lesson3.dll
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/obj/Debug/net9.0/Lesson3.pdb
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/obj/Debug/net9.0/Lesson3.genruntimeconfig.cache
+/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/obj/Debug/net9.0/ref/Lesson3.dll
