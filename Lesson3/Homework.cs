@@ -30,10 +30,6 @@ public static class Homework
                 if (first == "бумага") paperFirst = 1;
                 if (first == "камень") rockFirst = 1;
             }
-            else
-            {
-                Console.WriteLine("Отличный выбор!");
-            }
         } while (scissorsFirst == 0 && paperFirst == 0 && rockFirst == 0);
 
         Console.WriteLine("Второй, выбери своего бойца (камень, ножницы, бумага): ");
@@ -52,10 +48,6 @@ public static class Homework
                 if (second == "ножницы") scissorsSecond = 1;
                 if (second == "бумага") paperSecond = 1;
                 if (second == "камень") rockSecond = 1;
-            }
-            else
-            {
-                Console.WriteLine("Отличный выбор!");
             }
         } while (scissorsSecond == 0 && paperSecond == 0 && rockSecond == 0);
         

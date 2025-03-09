@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pavelboris/Documents/RiderProjects/Playground/Lesson2/Lesson2.csproj": {}
+    "/Users/pavelboris/Playground/Lesson2/Lesson2.csproj": {}
   },
   "projects": {
-    "/Users/pavelboris/Documents/RiderProjects/Playground/Lesson2/Lesson2.csproj": {
+    "/Users/pavelboris/Playground/Lesson2/Lesson2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pavelboris/Documents/RiderProjects/Playground/Lesson2/Lesson2.csproj",
+        "projectUniqueName": "/Users/pavelboris/Playground/Lesson2/Lesson2.csproj",
         "projectName": "Lesson2",
-        "projectPath": "/Users/pavelboris/Documents/RiderProjects/Playground/Lesson2/Lesson2.csproj",
+        "projectPath": "/Users/pavelboris/Playground/Lesson2/Lesson2.csproj",
         "packagesPath": "/Users/pavelboris/.nuget/packages/",
-        "outputPath": "/Users/pavelboris/Documents/RiderProjects/Playground/Lesson2/obj/",
+        "outputPath": "/Users/pavelboris/Playground/Lesson2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pavelboris/.nuget/NuGet/NuGet.Config"

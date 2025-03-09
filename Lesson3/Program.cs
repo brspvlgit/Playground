@@ -16,8 +16,9 @@ public class Program
         // Practice.GetMaxWeight();
         // Practice.GetAvgValue();
         // Practice.GetCurrentAge();
-        
-        Homework.yesNo();
+        //
+        // Homework.yesNo();
+        Homework.ScissorsPaperRock();
     }
     
 }

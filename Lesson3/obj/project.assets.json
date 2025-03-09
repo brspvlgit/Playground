@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/Lesson3.csproj",
+      "projectUniqueName": "/Users/pavelboris/Playground/Lesson3/Lesson3.csproj",
       "projectName": "Lesson3",
-      "projectPath": "/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/Lesson3.csproj",
+      "projectPath": "/Users/pavelboris/Playground/Lesson3/Lesson3.csproj",
       "packagesPath": "/Users/pavelboris/.nuget/packages/",
-      "outputPath": "/Users/pavelboris/Documents/RiderProjects/Playground/Lesson3/obj/",
+      "outputPath": "/Users/pavelboris/Playground/Lesson3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pavelboris/.nuget/NuGet/NuGet.Config"

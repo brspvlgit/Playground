@@ -8,6 +8,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3", "Lesson3\Lesson3.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4", "Lesson4\Lesson4.csproj", "{EC329A16-4874-4760-9A65-4A354759A835}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5", "Lesson5\Lesson5.csproj", "{B520B17E-0BF0-483B-8264-541E2D9AE0C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6", "Lesson6\Lesson6.csproj", "{BE68B710-0C79-42F6-AAD0-E9F6DEDCB83D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7", "Lesson7\Lesson7.csproj", "{73BDB664-F63E-4FE0-B7CA-6A880F08AD39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +36,17 @@ Global
 		{EC329A16-4874-4760-9A65-4A354759A835}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC329A16-4874-4760-9A65-4A354759A835}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC329A16-4874-4760-9A65-4A354759A835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B520B17E-0BF0-483B-8264-541E2D9AE0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B520B17E-0BF0-483B-8264-541E2D9AE0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B520B17E-0BF0-483B-8264-541E2D9AE0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B520B17E-0BF0-483B-8264-541E2D9AE0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE68B710-0C79-42F6-AAD0-E9F6DEDCB83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE68B710-0C79-42F6-AAD0-E9F6DEDCB83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE68B710-0C79-42F6-AAD0-E9F6DEDCB83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE68B710-0C79-42F6-AAD0-E9F6DEDCB83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BDB664-F63E-4FE0-B7CA-6A880F08AD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BDB664-F63E-4FE0-B7CA-6A880F08AD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BDB664-F63E-4FE0-B7CA-6A880F08AD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BDB664-F63E-4FE0-B7CA-6A880F08AD39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
