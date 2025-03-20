@@ -1,0 +1,14 @@
+/Users/pavelboris/Playground2/Lesson7/obj/Debug/net9.0/Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelboris/Playground2/Lesson7/obj/Debug/net9.0/Lesson7.AssemblyInfoInputs.cache
+/Users/pavelboris/Playground2/Lesson7/obj/Debug/net9.0/Lesson7.AssemblyInfo.cs
+/Users/pavelboris/Playground2/Lesson7/obj/Debug/net9.0/Lesson7.csproj.CoreCompileInputs.cache
+/Users/pavelboris/Playground2/Lesson7/bin/Debug/net9.0/Lesson7
+/Users/pavelboris/Playground2/Lesson7/bin/Debug/net9.0/Lesson7.deps.json
+/Users/pavelboris/Playground2/Lesson7/bin/Debug/net9.0/Lesson7.runtimeconfig.json
+/Users/pavelboris/Playground2/Lesson7/bin/Debug/net9.0/Lesson7.dll
+/Users/pavelboris/Playground2/Lesson7/bin/Debug/net9.0/Lesson7.pdb
+/Users/pavelboris/Playground2/Lesson7/obj/Debug/net9.0/Lesson7.dll
+/Users/pavelboris/Playground2/Lesson7/obj/Debug/net9.0/refint/Lesson7.dll
+/Users/pavelboris/Playground2/Lesson7/obj/Debug/net9.0/Lesson7.pdb
+/Users/pavelboris/Playground2/Lesson7/obj/Debug/net9.0/Lesson7.genruntimeconfig.cache
+/Users/pavelboris/Playground2/Lesson7/obj/Debug/net9.0/ref/Lesson7.dll
