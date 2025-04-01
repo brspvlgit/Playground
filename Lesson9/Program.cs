@@ -1,4 +1,6 @@
-﻿namespace Lesson9;
+﻿using Lesson_9;
+
+namespace Lesson9;
 
 internal class Program
 {
