@@ -24,9 +24,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b393cf0-8d14-4e7f-ba73-8116bece66d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exam1/Practice.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam1/MyString.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Playground/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Playground/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playground.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Playground.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam1/Practice.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exam1/ArrayTask.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exam1/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -410,7 +411,7 @@
       <workItem from="1744901407294" duration="521000" />
       <workItem from="1744901933815" duration="282000" />
       <workItem from="1744902219471" duration="4000" />
-      <workItem from="1744903464259" duration="3817000" />
+      <workItem from="1744903464259" duration="4590000" />
     </task>
     <servers />
   </component>

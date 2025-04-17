@@ -1,6 +1,6 @@
 namespace Exam1;
 
-public class Practice
+public class ArrayTask
 {
     public static void Array ()
     {
